@@ -1,6 +1,6 @@
 {
   "name": "pxh-ui-checkbox",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pxh-ui-icon": "^0.0.1"
+    "pxh-ui-icon": "^0.0.2"
   },
   "gitHead": "6f692c376e0fc0c4a08f76af9dc7facab8a530f1"
 }
